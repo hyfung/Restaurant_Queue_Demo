@@ -32,4 +32,4 @@ sudo bash docker-run.sh
 ```
 
 ## Screenshots (App Inventor 2)
-![alt text](https://github.com/hyfung/Restaurant_Queue_Demo/blob/master/images/app_inventor.png "")
+![alt text](https://github.com/hyfung/Restaurant_Queue_Demo/blob/white/images/app_inventor.png "")
